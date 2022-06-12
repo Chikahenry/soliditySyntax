@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "forever",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "i",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/gasAndGasPrice.sol": "Gas"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/gasAndGasPrice.sol": {
+			"keccak256": "0x193bf71825a36d9a99fec8de8d4d0851a7047b73d116aeb349f56dde1f5ff290",
+			"license": "MI",
+			"urls": [
+				"bzz-raw://ddb1249e881a5a86d7c6a1a81c5d68fb4365a2809d56063d565a94bd306ce822",
+				"dweb:/ipfs/QmZnb6h8PzWEwug6UCh45D1o6hHWwrL7LLYeWHLkfQS2RW"
+			]
+		}
+	},
+	"version": 1
+}
